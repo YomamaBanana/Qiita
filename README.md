@@ -1,5 +1,9 @@
 # Qiitaに投稿する記事のまとめ
 
+## Profile
+
+[個人ページ](https://qiita.com/YomamaBanana)
+
 ## 記事一覧
 
 | #  | タイトル                                                              | 投稿日     | Link                                                             |
