@@ -6,8 +6,10 @@
 
 ## 記事一覧
 
-| #  | タイトル                                                              | 投稿日     | Link                                                             |
-| -- | --------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------- |
+
+| #  | タイトル                                                              | 投稿日     | Link                                                                |
+| ---- | ----------------------------------------------------------------------- | ------------ | --------------------------------------------------------------------- |
+| 13 | 【メモ】AWS boto3 & dynamoDBチートシート                              | 2022-08-21 | [リンク](https://qiita.com/YomamaBanana/items/e53e843f44d82f698104) |
 | 12 | 便利ツール３選！                                                      | 2022-08-14 | [リンク](https://qiita.com/YomamaBanana/items/986cb7331748aae552a2) |
 | 11 | 【python】Wikipediaを検索し、結果をwordcloudで表示してみた！          | 2021-12-28 | [リンク](https://qiita.com/YomamaBanana/items/880498555513dedd7ea2) |
 | 10 | 【python】癒される・嫌がるpython（第2弾）                             | 2021-12-19 | [リンク](https://qiita.com/YomamaBanana/items/cfb79bca2af6bc2a8790) |
@@ -20,7 +22,6 @@
 | 3  | 【python】MediapipeとOpenCVでリアルタイムの顔フィルター               | 2021-12-04 | [リンク](https://qiita.com/YomamaBanana/items/4197c4f9ec26a05416ed) |
 | 2  | 【python】Mediapipeを使って「お化粧」をしてみた                       | 2021-12-03 | [リンク](https://qiita.com/YomamaBanana/items/cb2c72ffd4bdce374f32) |
 | 1  | 【Python】Mediapipeを使って口紅を塗ってみた                           | 2021-11-26 | [リンク](https://qiita.com/YomamaBanana/items/978689d6ec6c7e7be5d7) |
-
 
 ## TODO
 
